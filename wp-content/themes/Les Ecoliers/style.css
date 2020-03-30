@@ -1,0 +1,19 @@
+/*
+Theme Name: Les Écoliers
+Author: KAIZERWEBDESIGN - +237 696 46 83 33
+Version: 1.0
+*/
+
+@import 'css/core-style.css';
+
+a.btn.btn-secondary.slider-btn.px-4.py-3.mt-3:hover{
+    background-color: #5d50c6;
+    border: 1px solid #5d50c6;
+}
+
+a.nav-link {
+    text-transform: uppercase;
+}
+.pricing-entry{
+    box-shadow: 0 5px 7px rgba(0, 0, 0, 0.2);
+}
